@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Johurul Haque
-- 👀 I’m interested in JavaScript, TypeScript, React, and NextJs.
-- 🌱 I’m currently learning Redux, AWS, Docker.
+- 👀 I’m interested in NextJs, TypeScript, and Express.
+- 🌱 I’m currently learning Redux, AWS, and Docker.
 - 💞️ I’m looking to collaborate on non-profit interesting projects
