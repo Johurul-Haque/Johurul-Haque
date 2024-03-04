@@ -1,4 +1,4 @@
-![Aesthetic banner](./assets/banner.gif)
+<p><img src="./assets/banner.gif" width="100%" height="100%"/></p>
 
 ## 👋 Hi, I’m Johurul Haque
 *Muslim | Fullstack Developer at [NNO](https://nnobd.org/)*
