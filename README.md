@@ -1,6 +1,7 @@
 <img src="./assets/banner.gif" width="100%" />
 
-### Muslim | Fullstack Web Developer at [NNO](https://nnobd.org/)
+### Fullstack Developer
+2 years+ experience | Building websites using Next.js, Typescript, and MERN stack
 
 [![Email icon](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
 [![Website icon](https://img.shields.io/badge/website-gold?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
