@@ -1,11 +1,11 @@
 <img src="./assets/banner.gif" width="100%" />
 
-### Fullstack Developer
-2 years+ experience | Building websites using Next.js, Typescript, and MERN stack
+### Detail Oriented Web Developer
+👋 Hello, I'm Johurul. I'm from Bangladesh. It's a pleasure to meet you.
 
-[![Email icon](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
-[![Website icon](https://img.shields.io/badge/website-gold?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
-[![Linkedin icon](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johurul-haque/)
+[![Email icon](https://img.shields.io/badge/email-F6F1EC?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
+[![Website icon](https://img.shields.io/badge/website-F6F1EC?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
+[![Linkedin icon](https://img.shields.io/badge/linkedin-F6F1EC?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/johurul-haque/)
 
 ```typescript
 const johurul = {
