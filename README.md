@@ -1,7 +1,7 @@
 <img src="./assets/banner.gif" width="100%" />
 
-### Detail Oriented Web Developer
-👋 Hello, I'm Johurul. I'm from Bangladesh. A pleasure to meet you.
+### Web Developer
+👋 Hello, I'm Johurul. I'm from Bangladesh and I love building user-friendly websites for the internet. A pleasure meeting you.
 
 [![Email icon](https://img.shields.io/badge/email-F6F1EC?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
 [![Website icon](https://img.shields.io/badge/website-F6F1EC?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
