@@ -1,11 +1,11 @@
-<img src="./assets/banner.gif" width="100%" />
+<img src="./assets/banner.gif" width="100%" alt="GIF of a laptop on top of a table and in front of the window." />
 
 # Hello 👋
 **I'm Johurul** - I'm a full-stack developer based in Bangladesh. I build modern, easy-to-use websites for the internet. A pleasure meeting you.
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,vite,nodejs,express,mongodb,postgres,tailwind,prisma,firebase,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vite,redux,tailwind,express,postgres,mongodb,prisma,firebase,webstorm&theme=light)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johurul-haque)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=johurul-haque&theme=dark)](https://git.io/streak-stats)
 
 ## Contact
 [![Email icon](https://img.shields.io/badge/email-F6F1EC?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
