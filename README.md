@@ -8,6 +8,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=johurul-haque&theme=transparent&hide_border=true&hide_total_contributions=true)
 
 ## Contact
-[![Email icon](https://img.shields.io/badge/email-F6F1EC?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
-[![Website icon](https://img.shields.io/badge/website-F6F1EC?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
-[![Linkedin icon](https://img.shields.io/badge/linkedin-F6F1EC?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/johurul-haque/)
+[![Email icon](https://img.shields.io/badge/email-f4f2ed?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
+[![Website icon](https://img.shields.io/badge/website-f4f2ed?style=for-the-badge&logoColor=black&logo=About.me)](https://johurulhaque.vercel.app/)
+[![Linkedin icon](https://img.shields.io/badge/linkedin-f4f2ed?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/johurul-haque/)
