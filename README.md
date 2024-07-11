@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vite,redux,tailwind,express,postgres,mongodb,prisma,firebase,webstorm&theme=light)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johurul-haque&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=johurul-haque&theme=transparent&hide_border=true&hide_total_contributions=true)
 
 ## Contact
 [![Email icon](https://img.shields.io/badge/email-F6F1EC?style=for-the-badge&logo=gmail)](mailto:johurul@nnobd.org)
