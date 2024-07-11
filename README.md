@@ -3,7 +3,7 @@
 # Hello 👋
 **I'm Johurul** - I'm a full-stack developer based in Bangladesh. I build modern, easy-to-use websites for the internet. A pleasure meeting you.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vite,redux,tailwind,express,postgres,mongodb,prisma,firebase,webstorm&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vite,redux,tailwind,express,postgres,mongodb,prisma,firebase,webstorm&theme=light)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=johurul-haque&theme=transparent&hide_border=true&hide_total_contributions=true)
 
